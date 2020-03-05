@@ -1,8 +1,8 @@
 const WIDTH	= window.innerWidth;
 const HEIGHT = window.innerHeight;
 
-let stepX = 7;
-let stepY = 7;
+let stepX = 5;
+let stepY = 5;
 
 let isCatch = false;
 let score = 0;
